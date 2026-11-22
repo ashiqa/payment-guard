@@ -1,0 +1,10 @@
+{
+  "transaction_id": "demo-001",
+  "timestamp": "2025-02-01T14:30:00Z",
+  "amount": 249.5,
+  "distance_km": 80,
+  "new_device": 1,
+  "international": 0,
+  "prior_txn_count_1h": 2,
+  "prior_mean_amount": 38.5
+}

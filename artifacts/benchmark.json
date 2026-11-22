@@ -1,0 +1,10 @@
+{
+  "mode": "sequential HTTP, 10 warmup requests, single repeated payload",
+  "requests": 200,
+  "model_version": "11c3cd8b785c",
+  "data_kind": "synthetic",
+  "p50_ms": 6.869038500099123,
+  "p95_ms": 12.582190499551865,
+  "requests_per_second": 135.33554284173707,
+  "limitation": "Local measurements only; no concurrency or production capacity claim."
+}
